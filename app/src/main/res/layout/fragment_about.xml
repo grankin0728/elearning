@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.suusoft.elistening.viewmodel.fragment.AboutVM" />
+    </data>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/background_main"
+        app:background_main="@{viewModel.backgroundMain}"
+        android:padding="@dimen/dimen_2x">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="@dimen/dimen_1x"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_gravity="center_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"
+                android:src="@drawable/suusoft" />
+
+
+            <com.suusoft.elistening.widgets.textview.TextViewBold
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:paddingBottom="@dimen/dimen_1x"
+                android:paddingTop="@dimen/dimen_1x"
+                android:text="@{viewModel.title}"
+                app:color_text="@{viewModel.textColorPrimary}"
+                android:textSize="@dimen/text_size_xnormal" />
+
+            <com.suusoft.elistening.widgets.textview.TextViewRegular
+                android:layout_marginTop="@dimen/dimen_2x"
+                android:layout_width="60dp"
+                android:layout_height="2dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@color/red" />
+
+            <com.suusoft.elistening.widgets.textview.TextViewRegular
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:paddingTop="@dimen/dimen_1x"
+                android:text="@{viewModel.description}"
+                app:color_text="@{viewModel.textColorSecondary}"
+                android:textSize="@dimen/text_size_small" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_1x"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal">
+
+                <com.suusoft.elistening.widgets.textview.TextViewRegular
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:paddingTop="@dimen/dimen_1x"
+                    android:text="@string/follow_us"
+                    app:color_text="@{viewModel.textColorPrimary}"
+                    android:textSize="@dimen/text_size_normal" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_1x"
+                    android:layout_marginRight="@dimen/dimen_1x"
+                    android:gravity="center_horizontal"
+                    android:onClick="@{viewModel::onClickFace}"
+                    android:src="@drawable/ic_face" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_1x"
+                    android:layout_marginRight="@dimen/dimen_1x"
+                    android:gravity="center_horizontal"
+                    android:onClick="@{viewModel::onClickGoogle}"
+                    android:src="@drawable/ic_google_red" />
+
+
+            </LinearLayout>
+
+            <com.suusoft.elistening.widgets.textview.TextViewRegular
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:autoLink="web"
+                android:gravity="center_horizontal"
+                android:padding="@dimen/dimen_2x"
+                android:text="@string/URL_Company"
+                android:textSize="@dimen/text_size_normal" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</layout>

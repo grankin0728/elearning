@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="@dimen/dimen_05x"
+    android:translationZ="@dimen/dimen_05x"
+    android:layout_marginBottom="@dimen/dimen_x1x"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dimen_1x"
+        android:orientation="vertical">
+
+
+        <ScrollView
+            android:id="@+id/scrv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <!--title question-->
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dimen_5x">
+
+                    <TextView
+                        android:id="@+id/lblQuestion"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:text="@string/question"
+                        android:textColor="@color/green"
+                        android:textSize="@dimen/text_size_xnormal"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:id="@+id/llCurrentQuestion"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_gravity="center_vertical"
+                        android:background="@drawable/bg_radius_green"
+                        android:orientation="horizontal"
+                        android:padding="@dimen/dimen_05x"
+                        android:visibility="visible">
+
+                        <TextView
+                            android:id="@+id/tvCurrenQuestion"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="9"
+                            android:textColor="@color/whitetext"
+                            android:textSize="@dimen/text_size_xnormal" />
+
+
+                        <TextView
+                            android:id="@+id/tvTotalQuestion"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="/90"
+                            android:textColor="@color/whitetext"
+                            android:textSize="@dimen/text_size_xnormal" />
+
+                    </LinearLayout>
+
+                </RelativeLayout>
+
+                <!--question-->
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_1x">
+
+                    <LinearLayout
+                        android:id="@+id/llCurrentQuestion1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:paddingRight="@dimen/dimen_05x"></LinearLayout>
+
+                    <TextView
+                        android:id="@+id/tvQuestion"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingRight="@dimen/dimen_05x"
+                        android:text="Thậm chí, không chỉ thịt luộc mà ngay cả thịt kho, sườn rán… nhiều gia đình cũng làm như vậy với quan niệm chần qua nước sôi để loại bỏ các chất độc hại, chất bẩn chứa trong thịt. Tuy nhiên, đây thực ra là một thói quen sai lầm. Theo bác sĩ Hoàng Thị Thúy Hà – Viện Dinh dưỡng Lâm sàng, khi chưa rửa thịt sạch mà đã cho thịt vào nước đun sôi để chần sẽ làm miếng thịt biến tính, co lại, càng làm cho thịt ngậm các hóa chất và chất bẩn nhiều hơn. Vì vậy, thịt càng trở nên độc hại."
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/text_size_xnormal"
+                        android:textStyle="bold"
+                        android:visibility="visible" />
+
+                </RelativeLayout>
+
+                <!--image question-->
+                <ImageView
+                    android:id="@+id/imgQuestion"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/size_img_questions"
+                    android:layout_marginTop="@dimen/dimen_1x"
+                    android:src="@drawable/img_playlist"
+                    android:visibility="visible" />
+
+                <!--instruction-->
+                <TextView
+                    android:id="@+id/tvShowAnserCorrect"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_2x"
+                    android:text="@string/enter_your_answer"
+                    android:textColor="@color/green"
+                    android:textSize="@dimen/text_size_xnormal"
+                    android:textStyle="bold"
+                    android:visibility="visible" />
+
+                <!-- screenLongAnswer-->
+                <LinearLayout
+                    android:id="@+id/screenLongAnswer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/tvLongAnswer1"
+                        style="@style/TextViewLongAnswer"
+                        android:text="Are they working hard?, Will they be working hard?" />
+
+                    <TextView
+                        android:id="@+id/tvLongAnswer2"
+                        style="@style/TextViewLongAnswer"
+                        android:text="Are they working hard?, Will they be working hard?" />
+
+                    <TextView
+                        android:id="@+id/tvLongAnswer3"
+                        style="@style/TextViewLongAnswer"
+                        android:text="Are they working hard?, Will they be working hard?" />
+
+                    <TextView
+                        android:id="@+id/tvLongAnswer4"
+                        style="@style/TextViewLongAnswer"
+                        android:text="Are they working hard?, Will they be working hard?" />
+
+                    <TextView
+                        android:id="@+id/tvLongAnswer5"
+                        style="@style/TextViewLongAnswer"
+                        android:text="Are they working hard?, Will they be working hard?" />
+
+                    <TextView
+                        android:id="@+id/tvLongAnswer6"
+                        style="@style/TextViewLongAnswer"
+                        android:text="Are they working hard?, Will they be working hard?" />
+
+                    <TextView
+                        android:id="@+id/tvLongAnswer7"
+                        style="@style/TextViewLongAnswer"
+                        android:text="Are they working hard?, Will they be working hard?" />
+
+                    <TextView
+                        android:id="@+id/tvLongAnswer8"
+                        style="@style/TextViewLongAnswer"
+                        android:text="Are they working hard?, Will they be working hard?" />
+
+                </LinearLayout>
+
+                <!--screenShortAnswer-->
+                <LinearLayout
+                    android:id="@+id/screenShortAnswer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="visible">
+
+                    <LinearLayout
+                        android:id="@+id/screenShortAnswer12"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dimen_1x"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/tvShortAnswer1"
+                            style="@style/TextViewShortAnswer"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Are " />
+
+                        <View
+                            android:id="@+id/view12"
+                            android:layout_width="@dimen/dimen_2x"
+                            android:layout_height="match_parent" />
+
+                        <TextView
+                            android:id="@+id/tvShortAnswer2"
+                            style="@style/TextViewShortAnswer"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Are " />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/screenShortAnswer34"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dimen_05x"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/tvShortAnswer3"
+                            style="@style/TextViewShortAnswer"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Are " />
+
+                        <View
+                            android:id="@+id/view34"
+                            android:layout_width="@dimen/dimen_2x"
+                            android:layout_height="match_parent" />
+
+                        <TextView
+                            android:id="@+id/tvShortAnswer4"
+                            style="@style/TextViewShortAnswer"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Are " />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/screenShortAnswer56"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dimen_1x"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/tvShortAnswer5"
+                            style="@style/TextViewShortAnswer"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Are " />
+
+
+                        <View
+                            android:id="@+id/view56"
+                            android:layout_width="@dimen/dimen_2x"
+                            android:layout_height="match_parent" />
+
+                        <TextView
+                            android:id="@+id/tvShortAnswer6"
+                            style="@style/TextViewShortAnswer"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Are "
+                            android:textColor="@color/black" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/screenShortAnswer78"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dimen_1x"
+                        android:orientation="horizontal"
+                        android:visibility="visible">
+
+                        <TextView
+                            android:id="@+id/tvShortAnswer7"
+                            style="@style/TextViewShortAnswer"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Are " />
+
+
+                        <View
+                            android:id="@+id/view78"
+                            android:layout_width="@dimen/dimen_2x"
+                            android:layout_height="match_parent" />
+
+                        <TextView
+                            android:id="@+id/tvShortAnswer8"
+                            style="@style/TextViewShortAnswer"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Are "
+                            android:textColor="@color/black" />
+
+                    </LinearLayout>
+                </LinearLayout>
+
+                <!--Screen input answer-->
+                <LinearLayout
+                    android:id="@+id/screenInputAnswer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_x1x"
+                    android:layout_marginBottom="@dimen/dimen_x1x"
+                    android:orientation="vertical"
+                    android:visibility="visible">
+
+                    <EditText
+                        android:id="@+id/edtInputAnswer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bg_btn_question_green_radius_pale"
+                        android:gravity="center_vertical"
+                        android:imeOptions="actionDone"
+                        android:inputType="text"
+                        android:maxLines="2"
+                        android:padding="@dimen/dimen_1x"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/text_size_normal"
+                        android:visibility="visible" />
+
+                    <EditText
+                        android:id="@+id/tvShowAnswer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bg_txt_answer_correct_radius"
+                        android:gravity="center_vertical"
+                        android:padding="@dimen/dimen_1x"
+                        android:textColor="@color/whitetext"
+                        android:textSize="@dimen/text_size_normal"
+                        android:visibility="visible" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dimen_6x" />
+            </LinearLayout>
+
+        </ScrollView>
+
+        <!--Screen btn answer-->
+        <LinearLayout
+            android:id="@+id/screen_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/white"
+            android:orientation="horizontal"
+            android:paddingTop="@dimen/dimen_05x">
+
+            <TextView
+                android:visibility="visible"
+                android:id="@+id/btnAnswer"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="@dimen/dimen_05x"
+                android:layout_weight="1"
+                android:background="@drawable/bg_btn_question_troke_radius"
+                android:gravity="center"
+                android:padding="@dimen/dimen_1x"
+                android:text="@string/answer"
+                android:textColor="@color/whitetext"
+                android:textSize="@dimen/text_size_normal" />
+
+            <TextView
+                android:id="@+id/btnShowAnswer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_05x"
+                android:layout_marginRight="@dimen/dimen_05x"
+                android:layout_weight="1"
+                android:background="@drawable/bg_btn_question_troke_radius_showanswer"
+                android:gravity="center"
+                android:padding="@dimen/dimen_1x"
+                android:text="@string/show_answer"
+                android:textColor="@color/whitetext"
+                android:textSize="@dimen/text_size_normal" />
+
+            <TextView
+                android:id="@+id/btnNext"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/dimen_05x"
+                android:layout_weight="1"
+                android:background="@drawable/bg_btn_question_troke_radius_skip"
+                android:gravity="center"
+                android:padding="@dimen/dimen_1x"
+                android:text="@string/skip"
+                android:textColor="@color/whitetext"
+                android:textSize="@dimen/text_size_normal" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,595 @@
+{
+  "project_info": {
+    "project_number": "888049999981",
+    "firebase_url": "https://product-19014.firebaseio.com",
+    "project_id": "product-19014",
+    "storage_bucket": "product-19014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888049999981:android:21ce6b9dcadae7c4",
+        "android_client_info": {
+          "package_name": "chat.taxi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888049999981-c3e2nt3sdr6n386l2a963u7lveeq3b5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chat.taxi.app",
+            "certificate_hash": "9a149aef31e439568fc47febd23c2fdbfad0a7ee"
+          }
+        },
+        {
+          "client_id": "888049999981-s1g7i0f4bi30q3u7qhvflgafugi0i4do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chat.taxi.app",
+            "certificate_hash": "907a8f49c72c06b0862c0f535a2ae16664f428fb"
+          }
+        },
+        {
+          "client_id": "888049999981-dr4ebv4nbm56nok0rodft8hllod9d1ri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chat.taxi.app",
+            "certificate_hash": "ce7ae3a696573328d429e8233eda54e4c730f698"
+          }
+        },
+        {
+          "client_id": "888049999981-1dr6le4gaucfpsitm212nc0kl4mcbrif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chat.taxi.app",
+            "certificate_hash": "308849e831a9e1c240b257700157b859be90eae6"
+          }
+        },
+        {
+          "client_id": "888049999981-ah4dedkk33jvvnk9ffkkimmjm9214ivb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chat.taxi.app",
+            "certificate_hash": "3053e1b679078fae85d598bdaaf0600332846aae"
+          }
+        },
+        {
+          "client_id": "888049999981-7bmrf2nj1dfsg4c9bn90363s9t4hdvm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chat.taxi.app",
+            "certificate_hash": "4dd710a8e6ee37fe61b2b73282da384da564a67a"
+          }
+        },
+        {
+          "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowepAtPUQ-nOWmdWOxr19eg0Xr4P1Uw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888049999981-4nbjpg4ptqnd0195pnvljgivt72b79jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.suusoft.apppush"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888049999981:android:c8a58cdae2a94d4a645f64",
+        "android_client_info": {
+          "package_name": "com.suusoft.elistening"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowepAtPUQ-nOWmdWOxr19eg0Xr4P1Uw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888049999981-4nbjpg4ptqnd0195pnvljgivt72b79jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.suusoft.apppush"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888049999981:android:97159ed3267a080c",
+        "android_client_info": {
+          "package_name": "com.suusoft.instanthelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowepAtPUQ-nOWmdWOxr19eg0Xr4P1Uw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888049999981-4nbjpg4ptqnd0195pnvljgivt72b79jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.suusoft.apppush"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888049999981:android:2f3e68c3ba231888",
+        "android_client_info": {
+          "package_name": "com.suusoft.jamescustomize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888049999981-ppmk8uisjbqma7g2dgid3nn50sjf46oq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.jamescustomize",
+            "certificate_hash": "907a8f49c72c06b0862c0f535a2ae16664f428fb"
+          }
+        },
+        {
+          "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowepAtPUQ-nOWmdWOxr19eg0Xr4P1Uw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888049999981-4nbjpg4ptqnd0195pnvljgivt72b79jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.suusoft.apppush"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888049999981:android:fba7c065726fec35",
+        "android_client_info": {
+          "package_name": "com.suusoft.marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888049999981-48tte53a8tlnutom6605u95m94av0fso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.marketplace",
+            "certificate_hash": "9a149aef31e439568fc47febd23c2fdbfad0a7ee"
+          }
+        },
+        {
+          "client_id": "888049999981-lqjn970avcf3m9jbgrkpdoen6ig7ek6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.marketplace",
+            "certificate_hash": "907a8f49c72c06b0862c0f535a2ae16664f428fb"
+          }
+        },
+        {
+          "client_id": "888049999981-4l7nptv2q8h2oi9oq9he1eaq52q22oav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.marketplace",
+            "certificate_hash": "b9edf8d19ab4fa14452d5d8469f1e402f660d8a7"
+          }
+        },
+        {
+          "client_id": "888049999981-p40j4tvv3rhi2pk5644j05vjmnml3cpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.marketplace",
+            "certificate_hash": "4dd710a8e6ee37fe61b2b73282da384da564a67a"
+          }
+        },
+        {
+          "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowepAtPUQ-nOWmdWOxr19eg0Xr4P1Uw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888049999981-4nbjpg4ptqnd0195pnvljgivt72b79jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.suusoft.apppush"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888049999981:android:d36f2b3b076033e3645f64",
+        "android_client_info": {
+          "package_name": "com.suusoft.movietabsuusoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888049999981-70a9f2qsduqh6pjq9g3a1kkba0bta0df.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.movietabsuusoft",
+            "certificate_hash": "07d8c084e1107e4d56259c19db7b044eb3d380c7"
+          }
+        },
+        {
+          "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowepAtPUQ-nOWmdWOxr19eg0Xr4P1Uw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888049999981-4nbjpg4ptqnd0195pnvljgivt72b79jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.suusoft.apppush"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888049999981:android:5ac4ad603785fed3",
+        "android_client_info": {
+          "package_name": "com.suusoft.passapptaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888049999981-8bj2k9pvhauvutntf4pt8bibuminrq9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.passapptaxi",
+            "certificate_hash": "308849e831a9e1c240b257700157b859be90eae6"
+          }
+        },
+        {
+          "client_id": "888049999981-l13a1nriugcb5gk8oktn2tkd23490fb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.passapptaxi",
+            "certificate_hash": "ce7ae3a696573328d429e8233eda54e4c730f698"
+          }
+        },
+        {
+          "client_id": "888049999981-rp72ern978rnpngmq5cabqb00bovgdas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.passapptaxi",
+            "certificate_hash": "4dd710a8e6ee37fe61b2b73282da384da564a67a"
+          }
+        },
+        {
+          "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowepAtPUQ-nOWmdWOxr19eg0Xr4P1Uw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888049999981-4nbjpg4ptqnd0195pnvljgivt72b79jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.suusoft.apppush"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888049999981:android:310e8b0eeb43d3da",
+        "android_client_info": {
+          "package_name": "com.suusoft.restaurantuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888049999981-ntln66na0l3bbfh87s858auqpus3vcbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.restaurantuser",
+            "certificate_hash": "4a4bcdd121d73236697be57ec79bfb1a8016b7b0"
+          }
+        },
+        {
+          "client_id": "888049999981-6fjfoi43dg34ncpvul77vd0odr92ori2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.restaurantuser",
+            "certificate_hash": "07d8c084e1107e4d56259c19db7b044eb3d380c7"
+          }
+        },
+        {
+          "client_id": "888049999981-8jrishvcod6071i39c81bvh71dohror8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.restaurantuser",
+            "certificate_hash": "178e74fa1a04c8b70280d6b325c4e660c8be0980"
+          }
+        },
+        {
+          "client_id": "888049999981-d6pudfm1j9e4j87e25ku0fskvt5q0g09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.restaurantuser",
+            "certificate_hash": "907a8f49c72c06b0862c0f535a2ae16664f428fb"
+          }
+        },
+        {
+          "client_id": "888049999981-vjuqc83oh3l2mreinvrbgdgb5cs7tt02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.restaurantuser",
+            "certificate_hash": "4dd710a8e6ee37fe61b2b73282da384da564a67a"
+          }
+        },
+        {
+          "client_id": "888049999981-5uih4u7e0ofaci6pfsbq208f066ne3ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.restaurantuser",
+            "certificate_hash": "39927bebc103db282ad800087f33102453a5df29"
+          }
+        },
+        {
+          "client_id": "888049999981-cdv0aocf57t0jrr26ig9v502qeg1glci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.restaurantuser",
+            "certificate_hash": "6bcca63221a690cf6e05d7e6623ab1c6ccf39978"
+          }
+        },
+        {
+          "client_id": "888049999981-g7q29psph31g6ufj0ko4h54ficmsr4kc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.restaurantuser",
+            "certificate_hash": "029a3c633db41ea6b4816f585f6c2efa60ba3ea5"
+          }
+        },
+        {
+          "client_id": "888049999981-urkh568dpsmsu1pub0gumi19c6q2vbre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.restaurantuser",
+            "certificate_hash": "1809d13919b2a119286be63c6a51b229d36c56b9"
+          }
+        },
+        {
+          "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowepAtPUQ-nOWmdWOxr19eg0Xr4P1Uw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888049999981-4nbjpg4ptqnd0195pnvljgivt72b79jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.suusoft.apppush"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888049999981:android:309810bed855bec1",
+        "android_client_info": {
+          "package_name": "com.suusoft.taxinear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888049999981-oi0l9om8lnl6vc12iu5aftamgavr4t77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.taxinear",
+            "certificate_hash": "907a8f49c72c06b0862c0f535a2ae16664f428fb"
+          }
+        },
+        {
+          "client_id": "888049999981-uevnv4j7r5aphtk6ak7ctm7gget8rgog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.taxinear",
+            "certificate_hash": "308849e831a9e1c240b257700157b859be90eae6"
+          }
+        },
+        {
+          "client_id": "888049999981-ia0e0t560j187gsgq16qbv8fbnliqnm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.taxinear",
+            "certificate_hash": "ce7ae3a696573328d429e8233eda54e4c730f698"
+          }
+        },
+        {
+          "client_id": "888049999981-518vde8820t0cvmqnm63egcns70njkd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suusoft.taxinear",
+            "certificate_hash": "4dd710a8e6ee37fe61b2b73282da384da564a67a"
+          }
+        },
+        {
+          "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowepAtPUQ-nOWmdWOxr19eg0Xr4P1Uw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888049999981-4nbjpg4ptqnd0195pnvljgivt72b79jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.suusoft.apppush"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888049999981:android:91c4d272572e125a",
+        "android_client_info": {
+          "package_name": "com.suusoft.videos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowepAtPUQ-nOWmdWOxr19eg0Xr4P1Uw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888049999981-k1t6nqj0vp8d4eq2v7sq3mdlb3usv9ol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888049999981-4nbjpg4ptqnd0195pnvljgivt72b79jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.suusoft.apppush"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

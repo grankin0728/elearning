@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.suusoft.elistening.viewmodel.fragment.SettingsVM" />
+    </data>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/grey_light"
+        app:background_main="@{viewModel.backgroundMain}">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@color/grey_light"
+            android:orientation="vertical"
+            app:background_main="@{viewModel.backgroundMain}">
+            
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:background="@color/white"
+                android:layout_height="150dp">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="60dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerInParent="true"
+                    android:layout_height="60dp"
+                    android:layout_marginTop="20dp"
+                    android:id="@+id/img_avatar"
+                    android:src="@drawable/ic_man"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/tv_username"
+                    android:text="@string/name"
+                    android:textSize="@dimen/text_size_normal"
+                    android:textColor="@color/black"
+                    android:layout_marginTop="@dimen/dimen_1x"
+                    android:layout_centerInParent="true"
+                    android:layout_below="@+id/img_avatar"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/tv_email"
+                    android:text="@string/email_or_username"
+                    android:textSize="@dimen/text_size_normal"
+                    android:layout_below="@id/tv_username"
+                    android:textColor="@color/grey"
+                    android:layout_centerInParent="true"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/grey_light">
+
+            </RelativeLayout>
+
+            <com.suusoft.elistening.widgets.textview.TextViewBold
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/dimen_1x"
+                android:layout_marginTop="@dimen/dimen_3x"
+                android:text="@string/change_language"
+                android:textAllCaps="true"
+                android:textColor="@color/colorAccent"
+                android:textSize="@dimen/text_size_small"
+                android:layout_marginLeft="@dimen/dimen_3x"
+                app:color_text="@{viewModel.textColorPrimary}" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_item_setting"
+                android:background="@drawable/bg_shadow_border"
+                android:onClick="@{viewModel::onClickChangeLanguage}"
+                android:orientation="horizontal">
+
+                <com.suusoft.elistening.widgets.textview.TextViewRegular
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dimen_3x"
+                    android:text="@{viewModel.language}"
+                    android:textColor="@color/textColorPrimary"
+                    android:textSize="@dimen/text_size_normal" />
+
+                <ImageView
+                    android:layout_width="@dimen/height_item_setting"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:padding="@dimen/dimen_1x"
+                    android:src="@drawable/ic_drop_black" />
+            </RelativeLayout>
+
+
+            <com.suusoft.elistening.widgets.textview.TextViewBold
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:paddingTop="@dimen/dimen_2x"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/dimen_1x"
+                android:text="@string/admob"
+                android:textAllCaps="true"
+                android:textColor="@color/colorAccent"
+                android:textSize="@dimen/text_size_small"
+                app:color_text="@{viewModel.textColorPrimary}" />
+
+            <RelativeLayout
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_item_setting"
+                android:background="@drawable/bg_shadow_border"
+                android:orientation="horizontal">
+
+                <Switch
+                    android:checked="@{viewModel.showAdmob}"
+                    android:onClick="@{viewModel::onClickShowAdmob}"
+                    android:layout_marginLeft="@dimen/dimen_3x"
+                    android:text="@string/show_admob"
+                    android:textColor="@color/textColorPrimary"
+                    android:textSize="@dimen/text_size_normal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+
+            </RelativeLayout>
+
+
+            <com.suusoft.elistening.widgets.textview.TextViewBold
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/dimen_1x"
+                android:paddingTop="@dimen/dimen_2x"
+                android:text="@string/clear_cache"
+                android:textAllCaps="true"
+                android:textColor="@color/colorAccent"
+                android:textSize="@dimen/text_size_small"
+                app:color_text="@{viewModel.textColorPrimary}" />
+
+            <RelativeLayout
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_item_setting"
+                android:background="@drawable/bg_shadow_border"
+                android:onClick="@{viewModel::onClickCleanCache}"
+                android:orientation="horizontal">
+
+                <com.suusoft.elistening.widgets.textview.TextViewRegular
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dimen_x1x"
+                    android:text="@string/clear_data_offline"
+                    android:textColor="@color/textColorPrimary"
+                    android:textSize="@dimen/text_size_normal" />
+            </RelativeLayout>
+
+            <com.suusoft.elistening.widgets.textview.TextViewBold
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/dimen_1x"
+                android:paddingTop="@dimen/dimen_2x"
+                android:text="@string/screen_settings"
+                android:textAllCaps="true"
+                android:textColor="@color/colorAccent"
+                android:textSize="@dimen/text_size_small"
+                app:color_text="@{viewModel.textColorPrimary}" />
+
+            <RelativeLayout
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_item_setting"
+                android:background="@drawable/bg_shadow_border"
+                android:orientation="horizontal">
+
+                <com.suusoft.elistening.widgets.textview.TextViewRegular
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dimen_x1x"
+                    android:text="@string/keep_always_on_screen"
+                    android:textColor="@color/textColorPrimary"
+                    android:textSize="@dimen/text_size_normal" />
+
+                <Switch
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/dimen_x1x"
+                    android:checked="@={viewModel.screenOn}" />
+
+            </RelativeLayout>
+
+            <com.suusoft.elistening.widgets.textview.TextViewBold
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/dimen_1x"
+                android:paddingTop="@dimen/dimen_2x"
+                android:text="@string/change_theme"
+                android:layout_marginLeft="@dimen/dimen_3x"
+                android:textAllCaps="true"
+                android:textColor="@color/colorAccent"
+                android:textSize="@dimen/text_size_small"
+                app:color_text="@{viewModel.textColorPrimary}" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_item_setting"
+                android:background="@drawable/bg_shadow_border"
+                android:onClick="@{viewModel::onClickChangeTheme}"
+                android:orientation="horizontal">
+
+                <com.suusoft.elistening.widgets.textview.TextViewRegular
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dimen_3x"
+                    android:text="@{viewModel.themeName}"
+                    android:textColor="@color/textColorPrimary"
+                    android:textSize="@dimen/text_size_normal" />
+
+                <ImageView
+                    android:layout_width="@dimen/height_item_setting"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:padding="@dimen/dimen_1x"
+                    android:src="@drawable/ic_drop_black" />
+
+            </RelativeLayout>
+
+            <com.suusoft.elistening.widgets.textview.TextViewBold
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/dimen_1x"
+                android:paddingTop="@dimen/dimen_2x"
+                android:text="@string/grid_interface"
+                android:textAllCaps="true"
+                android:textColor="@color/colorAccent"
+                android:textSize="@dimen/text_size_small"
+                app:color_text="@{viewModel.textColorPrimary}" />
+
+            <RelativeLayout
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_item_setting"
+                android:background="@drawable/bg_shadow_border"
+                android:onClick="@{viewModel::onClickChangeListGridColumn}"
+                android:orientation="horizontal">
+
+                <com.suusoft.elistening.widgets.textview.TextViewRegular
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dimen_x1x"
+                    android:text="@{viewModel.listGridColumn}"
+                    android:textColor="@color/textColorPrimary"
+                    android:textSize="@dimen/text_size_normal" />
+
+                <ImageView
+                    android:layout_width="@dimen/height_item_setting"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:padding="@dimen/dimen_1x"
+                    android:src="@drawable/ic_drop_black" />
+
+            </RelativeLayout>
+
+            <com.suusoft.elistening.widgets.textview.TextViewBold
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/dimen_1x"
+                android:paddingTop="@dimen/dimen_2x"
+                android:text="@string/change_background_app"
+                android:textAllCaps="true"
+                android:visibility="gone"
+                android:textColor="@color/colorAccent"
+                android:textSize="@dimen/text_size_small"
+                app:color_text="@{viewModel.textColorPrimary}" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_item_setting"
+                android:visibility="gone"
+                android:background="@drawable/bg_shadow_border"
+                android:onClick="@{viewModel::onClickChangeBackgoundApp}"
+                android:orientation="horizontal">
+
+                <com.suusoft.elistening.widgets.textview.TextViewRegular
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dimen_x1x"
+                    android:text="@{viewModel.backgroundApp}"
+                    android:textColor="@color/textColorPrimary"
+                    android:textSize="@dimen/text_size_normal" />
+
+                <ImageView
+                    android:layout_width="@dimen/height_item_setting"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:padding="@dimen/dimen_1x"
+                    android:src="@drawable/ic_drop_black" />
+
+            </RelativeLayout>
+
+            <com.suusoft.elistening.widgets.textview.TextViewBold
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/dimen_1x"
+                android:paddingTop="@dimen/dimen_2x"
+                android:text="@string/change_list_type"
+                android:textAllCaps="true"
+                android:textColor="@color/colorAccent"
+                android:textSize="@dimen/text_size_small"
+                app:color_text="@{viewModel.textColorPrimary}" />
+
+            <RelativeLayout
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_item_setting"
+                android:background="@drawable/bg_shadow_border"
+                android:onClick="@{viewModel::onClickChangeListType}"
+                android:orientation="horizontal">
+
+                <com.suusoft.elistening.widgets.textview.TextViewRegular
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dimen_x1x"
+                    android:text="@{viewModel.listType}"
+                    android:textColor="@color/textColorPrimary"
+                    android:textSize="@dimen/text_size_normal" />
+
+                <ImageView
+                    android:layout_width="@dimen/height_item_setting"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:padding="@dimen/dimen_1x"
+                    android:src="@drawable/ic_drop_black" />
+            </RelativeLayout>
+
+
+            <com.suusoft.elistening.widgets.textview.TextViewBold
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/dimen_1x"
+                android:paddingTop="@dimen/dimen_2x"
+                android:visibility="gone"
+                android:text="@string/display_question"
+                android:textAllCaps="true"
+                android:textColor="@color/colorAccent"
+                android:textSize="@dimen/text_size_small"
+                app:color_text="@{viewModel.textColorPrimary}" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_item_setting"
+                android:visibility="gone"
+                android:background="@drawable/bg_shadow_border"
+                android:onClick="@{viewModel::onClickChangeDisplayQuestion}"
+                android:orientation="horizontal">
+
+                <com.suusoft.elistening.widgets.textview.TextViewRegular
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dimen_x1x"
+                    android:text="@{viewModel.dislayQuestionType}"
+                    android:textColor="@color/textColorPrimary"
+                    android:textSize="@dimen/text_size_normal" />
+
+                <ImageView
+                    android:layout_width="@dimen/height_item_setting"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:padding="@dimen/dimen_1x"
+                    android:src="@drawable/ic_drop_black" />
+            </RelativeLayout>
+
+
+            <com.suusoft.elistening.widgets.textview.TextViewBold
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:paddingBottom="@dimen/dimen_2x"
+                android:paddingTop="@dimen/dimen_2x"
+                android:text="@string/fonts_settings"
+                android:textAllCaps="true"
+                android:textColor="@color/grey"
+                android:textSize="@dimen/text_size_small"
+                android:visibility="gone" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:orientation="horizontal"
+                android:visibility="gone">
+
+                <com.suusoft.elistening.widgets.textview.TextViewRegular
+                    android:layout_width="wrap_content"
+
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:padding="@dimen/dimen_x1x"
+                    android:text="@string/font_size"
+                    android:textColor="@color/textColorPrimary"
+                    android:textSize="@dimen/text_size_normal" />
+
+                <SeekBar
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/dimen_x1x"
+                    android:max="10"
+                    android:onProgressChanged="@{viewModel::onValueChanged}"
+                    android:progress="@{viewModel.progres}" />
+
+            </RelativeLayout>
+
+            <com.suusoft.elistening.widgets.textview.TextViewRegular
+                android:id="@+id/tv_sample"
+                android:layout_width="180dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/dimen_3x"
+                android:background="@drawable/bg_sample_text"
+                android:gravity="center"
+                android:text="@string/sample"
+                android:textAllCaps="true"
+                android:textColor="@color/textColorSecondary"
+                android:textSize="@{viewModel.size}"
+                android:visibility="gone" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:background="@color/grey_light"
+                android:gravity="center_vertical"
+                android:drawableLeft="@drawable/ic_warn"
+                android:text="About Us"
+                android:id="@+id/about"
+                android:drawablePadding="@dimen/dimen_3x"
+                app:color_text="@{viewModel.textColorPrimary}"
+                android:paddingLeft="@dimen/dimen_3x"
+                android:textColor="@color/black"
+                android:layout_marginTop="@dimen/dimen_6x"
+                android:layout_height="35dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:background="@color/grey_light"
+                android:gravity="center_vertical"
+                app:color_text="@{viewModel.textColorPrimary}"
+                android:drawableLeft="@drawable/ic_people"
+                android:text="Sport"
+                android:id="@+id/sport"
+                android:drawablePadding="@dimen/dimen_3x"
+                android:paddingLeft="@dimen/dimen_3x"
+                android:textColor="@color/black"
+                android:layout_marginTop="12dp"
+                android:layout_height="35dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:background="@color/grey_light"
+                android:gravity="center_vertical"
+                android:drawableLeft="@drawable/ic_turn_off"
+                android:text="Logout"
+                android:id="@+id/logout"
+                app:color_text="@{viewModel.textColorPrimary}"
+                android:drawablePadding="@dimen/dimen_3x"
+                android:paddingLeft="@dimen/dimen_3x"
+                android:textColor="@color/black"
+                android:layout_marginTop="12dp"
+                android:layout_height="35dp">
+
+            </TextView>
+
+        </LinearLayout>
+
+    </ScrollView>
+</layout>

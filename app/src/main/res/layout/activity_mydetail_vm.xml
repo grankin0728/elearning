@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="viewModel"
+            type="com.suusoft.elistening.viewmodel.activity.DetailActivityVM"/>
+
+    </data>
+
+
+    <RelativeLayout android:id="@+id/layout_detail"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        app:background_main="@{viewModel.backgroundMain}"
+        tools:context="com.suusoft.elistening.view.activity.DetailActivity">
+
+        <RelativeLayout
+            android:layout_above="@+id/layoutAdmob"
+            android:id="@+id/layout_playing"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:visibility="gone"
+                android:id="@+id/img_backgroundplaying"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop" />
+
+            <ImageView
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/detail_background" />
+
+            <com.google.android.material.tabs.TabLayout
+                android:id="@+id/tab_layout"
+                app:tabTextAppearance="@style/MineCustomTabText"
+                android:layout_width="match_parent"
+                android:minHeight="@dimen/dimen_1x"
+                app:tabMaxWidth="0dp"
+                app:tabGravity="fill"
+                app:tabMode="fixed"
+                app:tabTextColor="@color/black1"
+                app:tabSelectedTextColor="@color/green"
+                app:tabIndicatorColor="@color/green"
+                android:layout_height="?attr/actionBarSize">
+
+            </com.google.android.material.tabs.TabLayout>
+
+            <androidx.viewpager.widget.ViewPager
+                android:layout_marginTop="@dimen/dimen_1x"
+                android:id="@+id/viewpager_detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/llPlayer"
+                android:layout_below="@id/tab_layout"
+                android:layout_marginLeft="@dimen/dimen_x1x"
+                android:layout_marginRight="@dimen/dimen_x1x"
+                app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:id="@+id/llPlayer"
+                android:layout_width="match_parent"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="6dp"
+                android:layout_height="wrap_content">
+
+                <com.suusoft.elistening.widgets.mycustomview.MyMediaPlayer
+                    android:id="@+id/media"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:visibility="gone"
+                    android:id="@+id/btnPlay"
+                    android:text="@string/play"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:padding="@dimen/dimen_x1x"
+                    android:textColor="@color/white"
+                    android:background="@color/green"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_4x"
+                    android:layout_marginRight="@dimen/dimen_4x"/>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+        <include layout="@layout/layout_banner_admob"/>
+
+    </RelativeLayout>
+
+
+</layout>

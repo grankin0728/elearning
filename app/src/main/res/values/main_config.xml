@@ -1,0 +1,19 @@
+<resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- app's name -->
+    <string name="app_name">English Listening</string>
+
+<!--    <string name="URL_API">http://elearning.suusoft.com/</string>-->
+    <string name="URL_API">http://suusoft-demo.com/products/elearning-v2/backend/web/index.php/</string>
+
+    <string name="URL_Company">http://suusoft.com</string>
+
+    <!--admob-->
+    <string name="app_id_admob">ca-app-pub-8492103280092505~9619547726</string>
+    <string name="google_admob_banner">ca-app-pub-8492103280092505/3585881598</string>
+    <string name="google_admob_interstitial">ca-app-pub-8492103280092505/6841287246</string>
+
+    <!--Facebook-->
+    <string name="facebook_app_id">254429132220836</string>
+
+</resources>

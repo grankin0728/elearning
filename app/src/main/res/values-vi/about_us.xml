@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--about us-->
+    <string name="about_content1">Cung cấp Android, iOS, mã nguồn Web và các dịch vụ phát triển.</string>
+    <string name="about_content2">Cam kết chất lượng và dịch vụ hoàn hảo.</string>
+    <string name="about_link"><u>http://suusoft.com</u></string>
+</resources>

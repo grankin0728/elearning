@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Suu Video",
+      "image": "ic_ebook",
+      "link_site": "http://suusoft.com",
+      "link_store": "https://play.google.com/store/apps/details?id=com.suusoft.ytvideos",
+      "description": "This template for video chanel"
+    },
+    {
+      "id": "2",
+      "name": "SChannels",
+      "image": "ic_restaurant",
+      "link_site": "http://suusoft.com",
+      "link_store": "https://play.google.com/store/apps/details?id=com.suusoft.ytchannels",
+      "description": "Find all restaurants around you"
+    },
+    {
+      "id": "3",
+      "name": "Restaurant Fastfood Mobile App",
+      "image": "ic_fastfood",
+      "link_site": "http://suusoft.com",
+      "link_store": "https://play.google.com/store/apps/details?id=com.suusoft.restaurantuser",
+      "description": "Would you like an app for fastfood restaurant ?"
+    },
+    {
+      "id": "4",
+      "name": "News",
+      "image": "ic_ebook",
+      "link_site": "http://suusoft.com",
+      "link_store": "https://play.google.com/store/apps/details?id=com.at.newsnet",
+      "description": "Reading news and make your news"
+    },
+    {
+      "id": "5",
+      "name": "Instant Helper",
+      "image": "ic_instanthelper",
+      "link_site": "http://suusoft.com",
+      "link_store": "https://play.google.com/store/apps/details?id=com.pt.instanthelper",
+      "description": "Find a job, find a helper"
+    },
+    {
+      "id": "6",
+      "name": "English Listening Lession",
+      "image": "ic_ebook",
+      "link_site": "http://suusoft.com",
+      "link_store": "https://play.google.com/store/apps/details?id=com.pt.englishlistening",
+      "description": "Learn english listening"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+<resources>
+    <!-- Default screen margins, padding, per the Android Design guidelines. -->
+    <dimen name="dimen_1dp">1dp</dimen>
+    <dimen name="dimen_x05x">2dp</dimen>
+    <dimen name="dimen_05x">4dp</dimen>
+    <dimen name="dimen_xx05x">6dp</dimen>
+    <dimen name="dimen_1x">8dp</dimen>
+    <dimen name="dimen_x1x">12dp</dimen>
+    <dimen name="dimen_2x">16dp</dimen>
+    <dimen name="dimen_x2x">20dp</dimen>
+    <dimen name="dimen_3x">24dp</dimen>
+    <dimen name="dimen_x3x">28dp</dimen>
+    <dimen name="dimen_4x">32dp</dimen>
+    <dimen name="dimen_x4x">36dp</dimen>
+    <dimen name="dimen_5x">40dp</dimen>
+    <dimen name="dimen_6x">48dp</dimen>
+    <dimen name="dimen_7x">56dp</dimen>
+    <dimen name="dimen_8x">64dp</dimen>
+
+    <!-- Text size -->
+    <dimen name="text_size_tiny">10sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="text_size_xnormal">16sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_xlarge">20sp</dimen>
+    <dimen name="text_size_xxlarge">24sp</dimen>
+    <dimen name="text_size_xxxlarge">26sp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_height">100dp</dimen>
+    <dimen name="height_content_comment">130dp</dimen>
+    <dimen name="height_item_setting">40dp</dimen>
+
+    <!-- array language support -->
+    <array name="arr_language_support">
+        <item>English - Arabic</item>
+        <item>English - Chinese</item>
+        <item>English - Dutch</item>
+        <item>English - English</item>
+        <item>English - French</item>
+        <item>English - German</item>
+        <item>English - Greek</item>
+        <item>English - Hindi</item>
+        <item>English - Indonesian</item>
+        <item>English - Italian</item>
+        <item>English - Japanese</item>
+        <item>English - Korean</item>
+        <item>English - Polish</item>
+        <item>English - Portuguese</item>
+        <item>English - Russian</item>
+        <item>English - Spanish</item>
+        <item>English - Thai</item>
+        <item>English - Turkish</item>
+        <item>English - urdu</item>
+        <item>English - Vietnamese</item>
+    </array>
+
+    <!-- array lang -->
+    <array name="arr_lang">
+        <item>ar</item>
+        <item>zh</item>
+        <item>nl</item>
+        <item>en</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>el</item>
+        <item>hi</item>
+        <item>id</item>
+        <item>it</item>
+        <item>jv</item>
+        <item>ko</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>ru</item>
+        <item>es</item>
+        <item>th</item>
+        <item>tr</item>
+        <item>ur</item>
+        <item>vi</item>
+    </array>
+
+    <!--my dimen-->
+    <dimen name="padding_time_text">15dp</dimen>
+    <dimen name="padding_image_button">5dp</dimen>
+    <dimen name="dimen_10x">80dp</dimen>
+    <dimen name="dimen_025x">2dp</dimen>
+    <dimen name="status_bar_button_info_container_padding_left">10dp</dimen>
+    <dimen name="notification_expanded_height">128dp</dimen>
+    <dimen name="notification_row_height">64dp</dimen>
+    <dimen name="divider_size">0.5dp</dimen>
+    <dimen name="thumb_size">6dp</dimen>
+    <dimen name="seekbar_heigh">3dp</dimen>
+    <dimen name="player_bar">110dp</dimen>
+    <dimen name="item_recycler_lesson_h">200dp</dimen>
+    <dimen name="min_heigh_item_sub">50dp</dimen>
+    <dimen name="margin_status">25dp</dimen>
+    <dimen name="recycle_margin">1dp</dimen>
+    <dimen name="size_img_question">220dp</dimen>
+    <dimen name="height_img_question">220dp</dimen>
+    <dimen name="height_mediaplayer">90dp</dimen>
+    <dimen name="size_img_questions">200dp</dimen>
+
+
+    <!--elistening suusoft-->
+    <dimen name="dimen_margin_item_list">@dimen/dimen_05x</dimen>
+    <dimen name="dimen_9x">90dp</dimen>
+
+</resources>

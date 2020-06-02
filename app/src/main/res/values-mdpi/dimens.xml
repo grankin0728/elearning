@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height_img_question">220dp</dimen>
+    <dimen name="height_mediaplayer">90dp</dimen>
+    <dimen name="size_img_questions">130dp</dimen>
+</resources>

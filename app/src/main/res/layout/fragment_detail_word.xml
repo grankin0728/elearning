@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/transparent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:visibility="gone"
+        android:id="@+id/btnExpand"
+        android:gravity="center_horizontal"
+        android:layout_marginRight="@dimen/dimen_2x"
+        android:layout_marginTop="@dimen/dimen_2x"
+        android:background="@color/transparent"
+        android:layout_alignParentRight="true"
+        android:layout_width="@dimen/dimen_4x"
+        android:layout_height="@dimen/dimen_4x">
+        <ImageView
+            android:layout_gravity="center_vertical"
+            android:id="@+id/imgExpand"
+            android:src="@drawable/ic_expand"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <ExpandableListView
+        android:layout_below="@+id/btnExpand"
+        android:layout_margin="@dimen/dimen_1x"
+        android:groupIndicator="@null"
+        android:divider="@null"
+        android:id="@+id/elv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:transcriptMode="alwaysScroll" />
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/tvNotVoca"
+        android:layout_margin="@dimen/dimen_2x"
+        android:textSize="@dimen/text_size_xnormal"
+        android:text="@string/this_lesson_has_no_vocabularys"
+        android:layout_centerInParent="true"
+        android:textColor="@color/black1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</RelativeLayout>

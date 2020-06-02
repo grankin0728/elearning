@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/root_view"
+    android:background="@color/transparent"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/dimen_05x">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/item_recycler_lesson_h">
+
+        <com.joooonho.SelectableRoundedImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            app:sriv_border_color="@color/black"
+            app:sriv_border_width="0dip"
+            app:sriv_left_bottom_corner_radius="@dimen/dimen_05x"
+            app:sriv_left_top_corner_radius="@dimen/dimen_05x"
+            app:sriv_oval="false"
+            app:sriv_right_bottom_corner_radius="@dimen/dimen_05x"
+            app:sriv_right_top_corner_radius="@dimen/dimen_05x" />
+
+        <com.joooonho.SelectableRoundedImageView
+            android:id="@+id/img_lesson"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:scaleType="center"
+            app:sriv_border_color="@color/black"
+            app:sriv_border_width="0dip"
+            app:sriv_left_bottom_corner_radius="@dimen/dimen_05x"
+            app:sriv_left_top_corner_radius="@dimen/dimen_05x"
+            app:sriv_oval="false"
+            app:sriv_right_bottom_corner_radius="@dimen/dimen_05x"
+            app:sriv_right_top_corner_radius="@dimen/dimen_05x" />
+
+        <com.suusoft.elistening.widgets.textview.TextViewBold
+            android:visibility="gone"
+            android:layout_width="@dimen/dimen_6x"
+            android:layout_height="@dimen/dimen_6x"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            android:padding="@dimen/dimen_05x"
+            android:rotation="45"
+            android:textAllCaps="true"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_tiny" />
+
+        <LinearLayout
+            android:id="@+id/rlt_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="@drawable/bg_title_item_book"
+            android:orientation="vertical"
+            android:padding="@dimen/dimen_x05x">
+
+            <RelativeLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <com.suusoft.elistening.widgets.textview.TextViewRegular
+                    android:id="@+id/txt_lessoncontent"
+                    android:layout_toLeftOf="@+id/btn_lessonmark"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:ellipsize="marquee"
+                    android:textColor="@color/whitetext"
+                    android:gravity="left"
+                    android:layout_marginLeft="@dimen/dimen_1x"
+                    android:layout_marginRight="@dimen/dimen_1x"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:singleLine="true"
+                    android:textSize="@dimen/text_size_tiny" />
+
+                <ImageButton
+                    android:layout_alignParentRight="true"
+                    android:id="@+id/btn_lessonmark"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="@dimen/dimen_x05x"
+                    android:layout_marginRight="@dimen/dimen_x05x"
+                    android:background="@null"
+                    app:srcCompat="@drawable/ic_star" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <com.suusoft.elistening.widgets.textview.TextViewBold
+                    android:id="@+id/txt_lessontitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:ellipsize="marquee"
+                    android:layout_marginLeft="@dimen/dimen_1x"
+                    android:layout_marginRight="@dimen/dimen_1x"
+                    android:layout_toLeftOf="@+id/btn_lessondownload"
+                    android:gravity="left"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:singleLine="true"
+                    android:textColor="@color/whitetext"
+                    android:textSize="@dimen/text_size_small" />
+
+                <ImageButton
+                    android:layout_alignParentRight="true"
+                    android:id="@+id/btn_lessondownload"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="@dimen/dimen_x05x"
+                    android:layout_marginRight="@dimen/dimen_x05x"
+                    android:background="@null"
+                    app:srcCompat="@drawable/ic_download_white" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/txt_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:drawableLeft="@drawable/ic_tick"
+        android:gravity="center_vertical"
+        android:padding="@dimen/dimen_05x"
+        android:text="@string/status"
+        android:textColor="@color/text_complete"
+        android:textSize="@dimen/text_size_small"
+        android:textStyle="bold"
+        android:visibility="visible"
+        android:layout_alignParentTop="true" />
+
+</RelativeLayout>

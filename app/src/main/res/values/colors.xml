@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- main color -->
+    <color name="colorPrimary">#7CDBDD</color>
+    <color name="colorPrimaryDark">#7CDBDD</color>
+    <color name="colorAccent">#62f2f5</color>
+    <color name="background_main">#0f2132</color>
+    <color name="textColorPrimary">#5d5d5d</color>
+    <color name="textColorSecondary">#919191</color>
+
+    <color name="transparentColor">#3F080505</color>
+
+    <!-- base color -->
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="black1">#727272</color>
+    <color name="red">#F44336</color>
+    <color name="blue">#2196F3</color>
+    <color name="green">#4CAF50</color>
+    <color name="green1">#718e72</color>
+    <color name="green_watch">#97d29a</color>
+    <color name="green_show">#61ae64</color>
+    <color name="yellow">#f8e71c</color>
+    <color name="yellowDark">#f5a623</color>
+    <color name="grey">#9E9E9E</color>
+    <color name="purple">#7CDBDD</color>
+    <color name="teal">#009688</color>
+    <color name="brown">#795548</color>
+    <color name="light_grey">#f6f6f6</color>
+    <color name="dividerColor">#B6B6B6</color>
+    <color name="text_notify_network">#607D8B</color>
+    <color name="white_50">#80ffffff</color>
+    <color name="white_30">#30ffffff</color>
+
+    <!-- social -->
+    <color name="facebook">#48649f</color>
+    <color name="google">#de3b45</color>
+    <color name="facebook_pressed">#FF577ECF</color>
+    <color name="google_pressed">#FFF4404B</color>
+
+    <!-- Tabs colors -->
+    <color name="bg_grey_transparent">#88000000</color>
+    <color name="bg_border_shadow">#030303</color>
+    <color name="select_indicator">#ffffff</color>
+    <color name="unselected_tab_text">#e7e7e7</color>
+
+    <!--random background-->
+    <integer-array name="androidcolors">
+        <item>@color/blue</item>
+        <item>@color/yellowDark</item>
+        <item>@color/green</item>
+        <item>@color/red</item>
+        <item>@color/purple</item>
+        <item>@color/teal</item>
+        <item>@color/brown</item>
+    </integer-array>
+
+    <!-- about us -->
+    <color name="grey_hard">#454545</color>
+    <color name="grey_light">#ededed</color>
+    <color name="grey_bold">#919191</color>
+
+    <!--color text item lesson-->
+    <color name="text_item">#727272</color>
+
+    <!--mycolor-->
+    <color name="item_background">#80000000</color>
+    <color name="whitetext">#fff</color>
+    <color name="blacktext">#727272</color>
+    <color name="text_play_light">#FFCFC1C1</color>
+    <color name="text_play_dark">#FFCFC1C1</color>
+    <color name="text_play_highligh">#fff700</color>
+    <color name="text_play_highligh_dark">#ffff</color>
+    <color name="text_play_highligh_light">#4CAF50</color>
+    <color name="text_play_highligh1">#4CAF50</color>
+    <color name="detail_background">#7d4d4848</color>
+    <color name="detail_background1">#CC4d4848</color>
+    <color name="bg_item_help_group">#9cc4ea</color>
+    <color name="divider">#ddd</color>
+    <color name="seekbar_background">#ddd</color>
+    <color name="seekbar_progress">#40a6ff</color>
+    <color name="text_complete">#444444</color>
+
+    <color name="tab_text_color_normal_dark">#FFCFC1C1</color>
+    <color name="tab_text_color_selected_dark">#ffff</color>
+    <color name="tab_text_color_normal_light">#727272</color>
+    <color name="tab_text_color_selected_light">#4CAF50</color>
+
+
+    <color name="colorBackgroundEditText">#ebebeb</color>
+
+    <color name="backgroundMainDark">#66BB6A</color>
+    <color name="backgroundMainLight">#ebebeb</color>
+    <color name="themColorAccent">#252525</color>
+    <color name="themColorPrimary">#FF5722</color>
+    <color name="themColorPrimaryDark">#1b1b1b</color>
+    <color name="textColorPrimaryDark">#7cdbdd</color>
+    <color name="textColorPrimaryLight">#FFE6810F</color>
+    <color name="textColorSecondaryDark">#4CAF50</color>
+    <color name="textColorSecondaryLight">#388E3C</color>
+
+
+
+
+<!--    <color name="backgroundMainDark">#673ab7</color>-->
+<!--    <color name="backgroundMainLight">#512da8</color>-->
+<!--    <color name="themColorAccent">#FF6F49B4</color>-->
+<!--    <color name="themColorPrimary">#FF6F49B4</color>-->
+<!--    <color name="themColorPrimaryDark">#FF6F49B4</color>-->
+<!--    <color name="textColorPrimaryDark">#ffffff</color>-->
+<!--    <color name="textColorPrimaryLight">#919191</color>-->
+<!--    <color name="textColorSecondaryDark">#FFA5A5A6</color>-->
+<!--    <color name="textColorSecondaryLight">#FFAA9AC9</color>-->
+<!--    -->
+
+
+<!--    "name": "Deep Purple",-->
+<!--    "colorPrimary": "#673ab7",-->
+<!--    "colorPrimaryDark": "#512da8",-->
+<!--    "colorAccent": "#FF6F49B4",-->
+<!--    "background_main_dark": "#FF6F49B4",-->
+<!--    "textColorPrimary_dark": "#ffffff",-->
+<!--    "textColorSecondary_dark": "#FFA5A5A6",-->
+<!--    "background_main_light": "#ffffff",-->
+<!--    "textColorPrimary_light": "#000000",-->
+<!--    "textColorSecondary_light": "#919191",-->
+<!--    "textPlayHightLight_light": "#734eb7",-->
+<!--    "textPlayHightLight_dark": "#ffffff",-->
+<!--    "colorTabSelected_dark": "#ffffff",-->
+<!--    "colorTabSelected_light": "#734eb7",-->
+<!--    "colorTabNormal_light": "#FFAA9AC9",-->
+<!--    "colorTabNormal_dark": "#FFA5A5A6"-->
+</resources>

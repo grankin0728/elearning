@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+<!--    <cache-path name="cache" path="data/com.suusoft.elistening/files/elistening" />-->
+<!--    <external-path name="external" path="data/com.suusoft.elistening/files/elistening" />-->
+
+<!--    <root-path name="root" path="." />-->
+<!--    <files-path name="my_music" path="data/com.suusoft.elistening/files/elistening" />-->
+<!--    <files-path name="my_music" path="data/com.suusoft.elistening/files/elistening"/>-->
+<!--    <files-path name="files" path="Android/data/com.suusoft.elistening/files/elistening" />-->
+
+<!--    <external-path name="external_files" path="data/com.suusoft.elistening/files/elistening" />-->
+<!--    <external-path name="music" path="data/com.suusoft.elistening/files/elistening" />-->
+<!--    <external-path name="my_images" path="data/com.suusoft.elistening/files/elistening" />-->
+<!--    <external-path name="my_images" path="data/com.suusoft.elistening/files/Pictures" />-->
+<!--    <external-path name="my_images" path="data/com.suusoft.elistening/files/Pictures/" />-->
+
+<!--    <external-files-path name="music" path="data/com.suusoft.elistening/files/elistening"/>-->
+<!--    <external-files-path name="camera_image" path="data/com.suusoft.elistening/files/elistening"/>-->
+<!--    <external-files-path name="external_files" path="data/com.suusoft.elistening/files/elistening" />-->
+<!--    <external-files-path name="my_music" path="data/com.suusoft.elistening/files/elistening" />-->
+
+<!--    <external-cache-path name="external_cache" path="data/com.suusoft.elistening/files/elistening" />-->
+
+
+    <external-path name="external_files" path="."/>
+    <external-path
+        name="external"
+        path="." />
+    <external-files-path
+        name="external_files"
+        path="." />
+    <cache-path
+        name="cache"
+        path="." />
+    <external-cache-path
+        name="external_cache"
+        path="." />
+    <files-path
+        name="files"
+        path="." />
+
+
+</paths>

@@ -1,0 +1,35 @@
+<resources>
+    <!-- Example customization of dimensions originally defined in res/values/dimens.xml
+         (such as screen margins) for screens with more than 820dp of available width. This
+         would include 7" and 10" devices in landscape (~960dp and ~1280dp respectively). -->
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="dimen_1dp">1dp</dimen>
+    <dimen name="dimen_05x">10dp</dimen>
+    <dimen name="dimen_xx05x">15dp</dimen>
+    <dimen name="dimen_1x">20dp</dimen>
+    <dimen name="dimen_x1x">31dp</dimen>
+    <dimen name="dimen_2x">42dp</dimen>
+    <dimen name="dimen_x2x">50dp</dimen>
+    <dimen name="dimen_3x">60dp</dimen>
+    <dimen name="dimen_x3x">70dp</dimen>
+    <dimen name="dimen_4x">80dp</dimen>
+    <dimen name="dimen_x4x">90dp</dimen>
+    <dimen name="dimen_5x">100dp</dimen>
+    <dimen name="dimen_6x">120dp</dimen>
+    <dimen name="dimen_7x">140dp</dimen>
+    <dimen name="dimen_8x">160dp</dimen>
+
+    <!-- Text size -->
+    <dimen name="text_size_small">21sp</dimen>
+    <dimen name="text_size_normal">24sp</dimen>
+    <dimen name="text_size_xnormal">28sp</dimen>
+    <dimen name="text_size_large">33sp</dimen>
+    <dimen name="text_size_xlarge">38sp</dimen>
+    <dimen name="text_size_xxlarge">43sp</dimen>
+    <dimen name="text_size_xxxlarge">46sp</dimen>
+
+    <dimen name="size_img_question">220dp</dimen>
+    <dimen name="height_img_question">220dp</dimen>
+
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:minHeight="@dimen/min_heigh_item_sub"
+    android:paddingTop="@dimen/dimen_x1x"
+    android:paddingBottom="@dimen/dimen_x1x"
+    android:orientation="horizontal"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_marginLeft="@dimen/dimen_05x"
+        android:text="how are you to day"
+        android:textColor="@color/black1"
+        android:id="@+id/txt_sub"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.97"
+        android:textSize="@dimen/text_size_xnormal" />
+
+    <ImageButton
+        android:textColor="@color/black1"
+        android:id="@+id/btn_select_sub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:background="@null"
+        android:layout_weight="0.03"
+        android:src="@drawable/ic_selectsub_black" />
+</LinearLayout>

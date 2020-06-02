@@ -1,0 +1,1775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="031dbac1-64a8-4b52-87c6-6e252aa08492" name="Default" comment="commit: change theme app ban đầu">
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/drawable-hdpi/intro_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/drawable-hdpi/intro_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/drawable-hdpi/logo_splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/drawable-mdpi/intro_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/drawable-mdpi/intro_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/drawable-mdpi/logo_splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/drawable-xhdpi/intro_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/drawable-xhdpi/intro_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/drawable-xhdpi/logo_splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/drawable-xxhdpi/intro_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/drawable-xxhdpi/intro_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/drawable-xxhdpi/logo_splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/drawable-xxxhdpi/intro_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/drawable-xxxhdpi/intro_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/drawable-xxxhdpi/logo_splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxiCabOnDemandTaxi/TaxiCabOnDemandTaxi/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../taxxi/andy-passapp-driver-android-1018-master/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../taxxi/andy-passapp-driver-android-1018-master/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../taxxi/andy-passapp-driver-android-1018-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../taxxi/andy-passapp-driver-android-1018-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../taxxi/andy-passapp-driver-android-1018-master/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../taxxi/andy-passapp-driver-android-1018-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../taxxi/andy-passapp-driver-android-1018-master/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../taxxi/andy-passapp-driver-android-1018-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../taxxi/andy-passapp-driver-android-1018-master/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../taxxi/andy-passapp-driver-android-1018-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../taxxi/andy-passapp-driver-android-1018-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../taxxi/andy-passapp-driver-android-1018-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../taxxi/andy-passapp-driver-android-1018-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../taxxi/andy-passapp-driver-android-1018-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/AppController.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/AppController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/main_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/main_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
+    <list id="7abb4e55-7948-4b6e-ac44-71cc0bccd742" name="New changelist" comment="" />
+    <ignored path="AT-EListening-New-Android-1709.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="YGC6R18C18003252" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="src_elearning_english_android_080518" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="src_elearning_english_android_080518" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="src_elearning_english_android_080518" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="src_elearning_english_android_080518" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AT-EListening-New-Android-1709">
+      <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-ldpi" module="app" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/DaoDownload/DownloadDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="40" column="56" selection-start-line="40" selection-start-column="56" selection-end-line="40" selection-end-column="56" />
+              <folding>
+                <element signature="e#1279#1304#0" expanded="true" />
+                <element signature="e#1481#1499#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/main_config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/util/AppUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="130" column="67" selection-start-line="130" selection-start-column="67" selection-end-line="130" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/provider_paths.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/FragmentFavorite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="76" column="74" selection-start-line="76" selection-start-column="74" selection-end-line="76" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4552#4553#0" expanded="true" />
+                <element signature="e#4620#4621#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/AppController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="82" column="30" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/LoginActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="425" column="91" selection-start-line="425" selection-start-column="91" selection-end-line="425" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>describeContents</find>
+      <find>setTextColorAndBackGroundCorrectAnswer</find>
+      <find>showAn</find>
+      <find>getCorre</find>
+      <find>#62f2f5</find>
+      <find>public void move(int i) {</find>
+      <find>initv</find>
+      <find>onre</find>
+      <find>bundle</find>
+      <find>Glide.</find>
+      <find>Object</find>
+      <find>star</find>
+      <find>Log.e(&quot;url</find>
+      <find>Log.e</find>
+      <find>Log.e(&quot;u</find>
+      <find>Log.e(&quot;Do</find>
+      <find>change</find>
+      <find>menu</find>
+      <find>oncreateop</find>
+      <find>pro</find>
+      <find>NotificationChannel</find>
+      <find>error:</find>
+      <find>default</find>
+      <find>addListData:</find>
+      <find>isDataAvailable</find>
+      <find>Forgr</find>
+      <find>favoriteList</find>
+      <find>onCre</find>
+      <find>hash</find>
+      <find>import com.facebook.FacebookSdk;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>view.findViewById</replace>
+      <replace>http://suusoft.com</replace>
+      <replace>Suusoft</replace>
+      <replace>setName</replace>
+      <replace>setAttachment</replace>
+      <replace>setImage</replace>
+      <replace>getName</replace>
+      <replace>getImage</replace>
+      <replace>getAttachment</replace>
+      <replace>getContent</replace>
+      <replace>setContent</replace>
+      <replace>getCategoryId</replace>
+      <replace />
+      <replace>bundle1</replace>
+      <replace>String</replace>
+      <replace>downloadList</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\SuuSoft\truongnv\Product\Education\Elistening\EListening-Backend-010318\app</dir>
+    </dirStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="D:\SuuSoft\truongnv\Product\Education\Elistening\EListening-Backend-010318\ks.jks" />
+    <option name="KEY_ALIAS" value="suusoft.com" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/fragment/FragmentDetailVocabulary.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/datastore/db/IDatabaseConfig.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/adapter/ListLessonAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values-vi/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/Dao/FavoriteDao.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/Dao/FavoriteList.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/FavoriteActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/viewmodel/fragment/SettingsVM.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/favorite_activity.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/listener/IOnclickItem.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/DaoFavorite/FavoriteDatabase.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/DaoFavorite/FavoriteAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_favorite.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/SplashLoadActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/configs/ConfigFirstUseApp.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/datastore/DataStoreManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/datastore/db/DbConnection.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/configs/Constant.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/viewmodel/item/ItemLessonVM.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/DaoFavorite/FavoriteList.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/DaoFavorite/DownloadApdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/DaoFavorite/DownloadList.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/DaoFavorite/FavoriteDao.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/DaoDownload/DownloadDatabase.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_lesson_suusoft_vm.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_favorive.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_download.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_download.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/DaoDownload/DownloadApdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/FragmentFavorite.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/video_menu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/QuestionActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/VideoViewActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/service/DownloadService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/model/modelLesson/Lesson.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/DaoDownload/DownloadList.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/service/MusicService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/DetailActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/fragment/FragmentDetailPlayingSortByTime.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/xml/provider_paths.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/fragment/FragmentDownload.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/DaoDownload/DownloadDao.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/AppController.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/main_config.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/LoginActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="261" />
+    <option name="y" value="53" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages AndroidView="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="src_elearning_english_android_080518" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="src_elearning_english_android_080518" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="src_elearning_english_android_080518" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src_elearning_english_android_080518" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="src_elearning_english_android_080518" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src_elearning_english_android_080518" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExportApk.ApkPath" value="D:\SuuSoft\truongnv\Product\Education\Elistening" />
+    <property name="ExportApk.BuildType" value="release" />
+    <property name="ExportApk.Flavors" value="" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ScreenshotViewer.SavePath" value="$PROJECT_DIR$/../screenshoot" />
+    <property name="SearchEverywhereHistoryKey" value="de&#9;PSI&#9;JAVA://com.suusoft.elistening.view.activity.DetailActivity&#10;dea&#9;PSI&#9;JAVA://com.suusoft.elistening.viewmodel.activity.DetailActivityVM&#10;frag&#9;PSI&#9;JAVA://com.suusoft.elistening.view.fragment.FragmentDetailPlayingSortByTime&#10;set&#9;PSI&#9;JAVA://com.suusoft.elistening.viewmodel.fragment.SettingsVM&#10;my&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/view/adapter/MyExpanableListAdapter.java&#10;ITEM&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/res/layout/item_lesson_suusoft_vm.xml&#10;fr&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/view/fragment/FragmentListLesson.java&#10;fra&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/view/fragment/FragmentDetailVocabulary.java&#10;loa&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/view/activity/SplashLoadActivity.java&#10;ite&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/res/layout/item_lesson_suusoft_vm.xml&#10;li&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/viewmodel/fragment/ListLessonVM.java&#10;hom&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/view/fragment/HomeFragment.java&#10;menu&#9;PSI&#9;JAVA://com.suusoft.elistening.view.adapter.MenuLeftAdapter&#10;colo&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/res/values/colors.xml&#10;item&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/res/layout/item_lesson_suusoft_vm.xml&#10;home&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/view/fragment/HomeFragment.java&#10;main&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/view/activity/MainActivity.java&#10;lo&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/res/values/colors.xml&#10;glo&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/configs/GlobalValue.java&#10;apc&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/AppController.java&#10;ap&#9;FILE&#9;jar://D:/adt-bundle-windows-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/appcompat-v7/25.2.0/appcompat-v7-25.2.0-sources.jar!/android/support/v7/app/AppCompatActivity.java&#10;th&#9;PSI&#9;JAVA://com.suusoft.elistening.model.Theme&#10;h&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/view/fragment/HomeFragment.java&#10;sty&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/res/values/styles.xml&#10;col&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/res/values/colors.xml&#10;i&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/datastore/db/IDatabaseConfig.java&#10;spl&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/view/activity/SplashLoadActivity.java&#10;app&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/AppController.java&#10;api&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/configs/Apis.java&#10;mai&#9;PSI&#9;JAVA://com.suusoft.elistening.view.activity.MainActivity&#10;about&#9;PSI&#9;JAVA://com.suusoft.elistening.view.fragment.FragmentAbout&#10;abou&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/res/values/about_us.xml&#10;abo&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/res/values/about_us.xml&#10;color&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/res/values/colors.xml&#10;splas&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/view/activity/SplashActivity.java&#10;les&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/model/modelLesson/Lesson.java&#10;detail&#9;PSI&#9;JAVA://com.suusoft.elistening.view.activity.DetailActivity&#10;SET&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/viewmodel/fragment/SettingsVM.java&#10;SUC&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/view/activity/QuestionAnswerSuccessActivity.java&#10;detai&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/view/activity/DetailActivity.java&#10;lay&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/res/layout/layout_screen_question.xml&#10;FR&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/view/fragment/FragmentDetailPlayingSortByTime.java&#10;hand&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/handle/HandleQuestion.java&#10;layout_qu&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/res/layout/layout_screen_question.xml&#10;less&#9;FILE&#9;file://D:/SuuSoft/truongnv/Product/Education/Elistening/EListening-Backend-010318/app/src/main/java/com/suusoft/elistening/view/adapter/ListLessonAdapter.java&#10;spal&#9;PSI&#9;JAVA://android.util.SparseLongArray&#10;s&#9;FILE&#9;file://F:/Work/Android/Moza/Product-doing/AT-EListening-New-backend/AT-EListening-New-backend-1017/app/src/main/java/com/mozagroup/elistening/view/activity/SplashActivity.java&#10;sp&#9;FILE&#9;file://F:/Work/Android/Moza/Product-doing/AT-EListening-New-backend/AT-EListening-New-backend-1017/app/src/main/java/com/mozagroup/elistening/view/activity/SplashActivity.java&#10;lis&#9;FILE&#9;file://F:/Work/Android/Moza/Product-doing/AT-EListening-New-backend/AT-EListening-New-backend-1017/app/src/main/java/com/mozagroup/elistening/viewmodel/fragment/ListLessonVM.java&#10;a&#9;FILE&#9;file://F:/Work/Android/Moza/Product-doing/AT-EListening-New-backend/AT-EListening-New-backend-1017/app/src/main/java/com/mozagroup/elistening/AppController.java" />
+    <property name="VectorAssetImportPath" value="F:\Work\Android\Moza\Product-doing\AT-EListening-New-backend" />
+    <property name="algorithm" value="Scalr" />
+    <property name="android.project.structure.last.selected" value="app" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="device.picker.selection" value="4300ed224a0e5009" />
+    <property name="format" value="PNG" />
+    <property name="lastFolderRoot" value="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/ic_google_red.png" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="F:/Android/FileDownloader-master/FileDownloader-master/demo" />
+    <property name="method" value="Automatic" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="resolutions" value="MDPI&#10;XXHDPI&#10;HDPI&#10;XXXHDPI&#10;XHDPI" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="sourceResolution" value="XXXHDPI" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Work\Android\Moza\Product-doing\AT-EListening-New-backend\AT-EListening-New-backend-1017\app\src\main\res\raw" />
+      <recent name="F:\Work\Android\Moza\Product-doing\AT-EListening-New-Nobackend\AT-EListening-New-Nobackend-1709\app\src\main\res\mipmap-xxxhdpi" />
+      <recent name="F:\Work\Android\Moza\Product-doing\AT-EListening-New-Nobackend\AT-EListening-New-Nobackend-1709\app\src\main\res\mipmap-xxhdpi" />
+      <recent name="F:\Work\Android\Moza\Product-doing\AT-EListening-New-Nobackend\AT-EListening-New-Nobackend-1709\app\src\main\res\mipmap-xhdpi" />
+      <recent name="F:\Work\Android\Moza\Product-doing\AT-EListening-New-Nobackend\AT-EListening-New-Nobackend-1709\app\src\main\res\mipmap-mdpi" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.suusoft.elistening.DaoDownload" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.suusoft.elistening.listener" />
+      <recent name="com.suusoft.elistening.configs" />
+      <recent name="com.suusoft.elistening.retrofit.param" />
+      <recent name="com.suusoft.elistening.modelmanager" />
+      <recent name="com.suusoft.elistening.view.fragment" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\AndroidStudioProject\src_elearning_english_android_080518\src_elearning_english_android_080518\app" />
+      <recent name="F:\AndroidStudioProject\src_elearning_english_android_080518\src_elearning_english_android_080518\app\src\main\res\drawable" />
+      <recent name="F:\AndroidStudioProject\src_elearning_english_android_080518\src_elearning_english_android_080518\app\src\main\java\com\suusoft\elistening\retrofit" />
+      <recent name="D:\SuuSoft\truongnv\Product\Education\Elistening\EListening-Backend-010318\app\src\main\res\layout" />
+      <recent name="D:\SuuSoft\truongnv\Product\Education\Elistening\EListening-Backend-010318" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="layout in app" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="layout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="layout" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520583534803" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520583534803" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="src_elearning_english_android_080518:app [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="AT-EListening-New-backend-1017" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+      <item itemvalue="Android JUnit.layout in app" />
+      <item itemvalue="Gradle.src_elearning_english_android_080518:app [signingReport]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.src_elearning_english_android_080518:app [signingReport]" />
+        <item itemvalue="Android JUnit.layout in app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="031dbac1-64a8-4b52-87c6-6e252aa08492" name="Default" comment="" />
+      <changelist id="7abb4e55-7948-4b6e-ac44-71cc0bccd742" name="New changelist" comment="" />
+      <created>1506268882700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506268882700</updated>
+    </task>
+    <task id="LOCAL-00004" summary="thêm color vào file configTheme">
+      <created>1506444038786</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1506444038786</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit edit color tab layout thay đổi theo them và backgound">
+      <created>1506533072238</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1506533072238</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit edit color tab layout thay đổi theo them và backgound">
+      <created>1507088924359</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1507088924359</updated>
+    </task>
+    <task id="LOCAL-00007" summary="review">
+      <created>1507115737910</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1507115737910</updated>
+    </task>
+    <task id="LOCAL-00008" summary="review">
+      <created>1507166913682</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1507166913682</updated>
+    </task>
+    <task id="LOCAL-00009" summary="review">
+      <created>1507600972670</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1507600972670</updated>
+    </task>
+    <task id="LOCAL-00010" summary="review">
+      <created>1507605318339</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1507605318339</updated>
+    </task>
+    <task id="LOCAL-00011" summary="review">
+      <created>1507674977912</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1507674977912</updated>
+    </task>
+    <task id="LOCAL-00012" summary="sửa màn search">
+      <created>1507690798922</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1507690798922</updated>
+    </task>
+    <task id="LOCAL-00013" summary="review">
+      <created>1507713865334</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1507713865334</updated>
+    </task>
+    <task id="LOCAL-00014" summary="review">
+      <created>1507715276669</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1507715276669</updated>
+    </task>
+    <task id="LOCAL-00015" summary="config build release">
+      <created>1507741871829</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1507741871829</updated>
+    </task>
+    <task id="LOCAL-00016" summary="commit cleaner class ko sử dụng">
+      <created>1507782033935</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1507782033936</updated>
+    </task>
+    <task id="LOCAL-00017" summary="review">
+      <created>1507791760906</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1507791760906</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Ẩn đi những mục ko dùng đến trong menu setting">
+      <created>1507861683641</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1507861683641</updated>
+    </task>
+    <task id="LOCAL-00019" summary="review">
+      <created>1507863174069</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1507863174069</updated>
+    </task>
+    <task id="LOCAL-00020" summary="sort by time of transcrip">
+      <created>1508135732526</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1508135732526</updated>
+    </task>
+    <task id="LOCAL-00021" summary="sort by time of transcrips">
+      <created>1508135899411</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1508135899411</updated>
+    </task>
+    <task id="LOCAL-00022" summary="change icon app">
+      <created>1508136890682</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1508136890682</updated>
+    </task>
+    <task id="LOCAL-00023" summary="commit lần đầu">
+      <created>1508149802119</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1508149802119</updated>
+    </task>
+    <task id="LOCAL-00024" summary="change icon app">
+      <created>1508325842145</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1508325842158</updated>
+    </task>
+    <task id="LOCAL-00025" summary="rev">
+      <created>1508412122561</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1508412122561</updated>
+    </task>
+    <task id="LOCAL-00026" summary="rev">
+      <created>1508429015734</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1508429015734</updated>
+    </task>
+    <task id="LOCAL-00027" summary="review">
+      <created>1508496135828</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1508496135828</updated>
+    </task>
+    <task id="LOCAL-00028" summary="review">
+      <created>1508498480541</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1508498480541</updated>
+    </task>
+    <task id="LOCAL-00029" summary="review">
+      <created>1508773126074</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1508773126074</updated>
+    </task>
+    <task id="LOCAL-00030" summary="thêm chức năng listener keybroad show and hide while show question">
+      <created>1508815338999</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1508815338999</updated>
+    </task>
+    <task id="LOCAL-00031" summary="thêm chức năng listener keybroad show and hide while show question">
+      <created>1508817080014</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1508817080014</updated>
+    </task>
+    <task id="LOCAL-00032" summary="review cmt">
+      <created>1508820512553</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1508820512554</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.gradle/3.3/taskArtifacts/fileHashes.bin&#10;#&#9;.gradle/3.3/taskArtifacts/fileSnapshots.bin&#10;#&#9;.gradle/3.3/taskArtifacts/taskArtifacts.bin&#10;#&#9;.gradle/3.3/taskArtifacts/taskArtifacts.lock&#10;">
+      <created>1508820621311</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1508820621311</updated>
+    </task>
+    <task id="LOCAL-00034" summary="commit item lesson : change relativelayout to Cardview">
+      <created>1509088093794</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1509088093794</updated>
+    </task>
+    <task id="LOCAL-00035" summary="commit: replace the functions in DataStoreManager , create class GlobalValue contains the amount of usage applications">
+      <created>1509439634549</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1509439634549</updated>
+    </task>
+    <task id="LOCAL-00036" summary="commit: replace the functions in DataStoreManager , create class GlobalValue contains the amount of usage applications">
+      <created>1509447616240</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1509447616240</updated>
+    </task>
+    <task id="LOCAL-00037" summary="commit: replace the functions in DataStoreManager , create class GlobalValue contains the amount of usage applications">
+      <created>1509466287788</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1509466287788</updated>
+    </task>
+    <task id="LOCAL-00038" summary="commit: replace the functions in DataStoreManager , create class GlobalValue contains the amount of usage applications">
+      <created>1509509165783</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1509509165783</updated>
+    </task>
+    <task id="LOCAL-00039" summary="review code">
+      <created>1509521773163</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1509521773163</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Commit lần đầu">
+      <created>1519893487711</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1519893487711</updated>
+    </task>
+    <task id="LOCAL-00041" summary="commit: hide button favorite and button delete in item lesson">
+      <created>1519904028997</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1519904028997</updated>
+    </task>
+    <task id="LOCAL-00042" summary="commit: add change theme layout question">
+      <created>1520226363952</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1520226363952</updated>
+    </task>
+    <task id="LOCAL-00043" summary="commit: listening changed theme to change color screen layout question, change item lesson">
+      <created>1520244464090</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1520244464090</updated>
+    </task>
+    <task id="LOCAL-00044" summary="commit: đang fix download lesson for device samsung">
+      <created>1520249210898</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1520249210898</updated>
+    </task>
+    <task id="LOCAL-00045" summary="commit: add file ks.jks and file document customize app">
+      <created>1520324195846</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1520324195846</updated>
+    </task>
+    <task id="LOCAL-00046" summary="commit: change method access url api">
+      <created>1520331008127</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1520331008128</updated>
+    </task>
+    <task id="LOCAL-00047" summary="commit: add file docx android and backend">
+      <created>1520392295264</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1520392295264</updated>
+    </task>
+    <task id="LOCAL-00048" summary="commit: add key amob release">
+      <created>1520398258663</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1520398258663</updated>
+    </task>
+    <task id="LOCAL-00049" summary="commit: add category">
+      <created>1520483782884</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1520483782884</updated>
+    </task>
+    <task id="LOCAL-00050" summary="commit: add category">
+      <created>1520507801532</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1520507801533</updated>
+    </task>
+    <task id="LOCAL-00051" summary="commit: change theme app ban đầu">
+      <created>1584409525727</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1584409525734</updated>
+    </task>
+    <task id="LOCAL-00052" summary="commit: change theme app ban đầu">
+      <created>1584409870702</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1584409870702</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.52901024" visible="true" weight="0.20953101" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Captures" order="3" side_tool="true" weight="0.25" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.47179487" side_tool="true" weight="0.22442748" />
+      <window_info id="Image Layers" order="7" />
+      <window_info id="Resources Explorer" order="8" weight="0.32980332" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49694657" weight="0.5581015" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.690671" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44189852" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5030534" side_tool="true" weight="0.32367972" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Logcat" order="9" visible="true" weight="0.61047465" />
+      <window_info anchor="bottom" id="Android Monitor" order="10" weight="0.721843" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.6450512" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32935154" />
+      <window_info anchor="bottom" id="Gradle Console" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.69335604" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.5450082" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962063" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Android Model" order="5" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Theme Preview" order="7" weight="0.32928678" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Preview" order="9" weight="0.27987897" />
+      <window_info anchor="right" id="Codota" order="10" weight="0.32980332" />
+      <window_info anchor="right" id="Flutter Inspector" order="11" weight="0.32980332" />
+      <window_info anchor="right" id="Flutter Outline" order="12" weight="0.32980332" />
+      <window_info anchor="right" id="Flutter Performance" order="13" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.52901024" visible="true" weight="0.20953101" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Captures" order="3" side_tool="true" weight="0.25" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.47179487" side_tool="true" weight="0.22442748" />
+      <window_info id="Image Layers" order="7" />
+      <window_info id="Resources Explorer" order="8" weight="0.32980332" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49694657" weight="0.5581015" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.690671" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44189852" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5030534" side_tool="true" weight="0.32367972" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Logcat" order="9" weight="0.7643208" />
+      <window_info anchor="bottom" id="Android Monitor" order="10" weight="0.721843" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.6450512" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32935154" />
+      <window_info anchor="bottom" id="Gradle Console" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.69335604" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.5450082" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962063" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Android Model" order="5" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Theme Preview" order="7" weight="0.32928678" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info active="true" anchor="right" id="Preview" order="9" visible="true" weight="0.27987897" />
+      <window_info anchor="right" id="Codota" order="10" weight="0.32980332" />
+      <window_info anchor="right" id="Flutter Inspector" order="11" />
+      <window_info anchor="right" id="Flutter Outline" order="12" />
+      <window_info anchor="right" id="Flutter Performance" order="13" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <MESSAGE value="commit cleaner class ko sử dụng" />
+    <MESSAGE value="Ẩn đi những mục ko dùng đến trong menu setting" />
+    <MESSAGE value="sort by time of transcrip" />
+    <MESSAGE value="sort by time of transcrips" />
+    <MESSAGE value="commit lần đầu" />
+    <MESSAGE value="change icon app" />
+    <MESSAGE value="rev" />
+    <MESSAGE value="review" />
+    <MESSAGE value="thêm chức năng listener keybroad show and hide while show question" />
+    <MESSAGE value="review cmt" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.gradle/3.3/taskArtifacts/fileHashes.bin&#10;#&#9;.gradle/3.3/taskArtifacts/fileSnapshots.bin&#10;#&#9;.gradle/3.3/taskArtifacts/taskArtifacts.bin&#10;#&#9;.gradle/3.3/taskArtifacts/taskArtifacts.lock&#10;" />
+    <MESSAGE value="commit item lesson : change relativelayout to Cardview" />
+    <MESSAGE value="commit: replace the functions in DataStoreManager , create class GlobalValue contains the amount of usage applications" />
+    <MESSAGE value="review code" />
+    <MESSAGE value="Commit lần đầu" />
+    <MESSAGE value="commit: hide button favorite and button delete in item lesson" />
+    <MESSAGE value="commit: add change theme layout question" />
+    <MESSAGE value="commit: listening changed theme to change color screen layout question, change item lesson" />
+    <MESSAGE value="commit: đang fix download lesson for device samsung" />
+    <MESSAGE value="commit: add file ks.jks and file document customize app" />
+    <MESSAGE value="commit: change method access url api" />
+    <MESSAGE value="commit: add file docx android and backend" />
+    <MESSAGE value="commit: add key amob release" />
+    <MESSAGE value="commit: add category" />
+    <MESSAGE value="commit: change theme app ban đầu" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit: change theme app ban đầu" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/fragment/FragmentDetailQuestion.java</url>
+          <line>395</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/LoginActivity.java</url>
+          <line>291</line>
+          <properties class="com.suusoft.elistening.view.activity.LoginActivity" method="signInGoogle" />
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/configTheme.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/SplashLoadActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/service/SaveLessonInDBService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="40" column="78" lean-forward="true" selection-start-line="40" selection-start-column="78" selection-end-line="40" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/datastore/db/IDatabaseConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/configs/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="115" column="35" selection-start-line="115" selection-start-column="35" selection-end-line="115" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/configs/ConfigFirstUseApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-28/android.jar!/android/os/Environment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/db.sqlite">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/viewmodel/fragment/ListLessonVM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="66" column="52" selection-start-line="66" selection-start-column="52" selection-end-line="66" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/base/view/BaseFragmentBinding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/configs/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="84" column="31" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/datastore/db/DbConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="453" column="30" selection-start-line="453" selection-start-column="30" selection-end-line="453" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/datastore/DataStoreManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="121" column="46" selection-start-line="121" selection-start-column="46" selection-end-line="121" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/service/fcm/MyFireBaseCloudMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_favorite.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/DaoFavorite/FavoriteAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="67" column="11" lean-forward="true" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/viewmodel/item/ItemLessonVM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="246" column="48" selection-start-line="246" selection-start-column="48" selection-end-line="246" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/DaoFavorite/FavoriteDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_lesson_suusoft_vm.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="174" column="57" selection-start-line="174" selection-start-column="57" selection-end-line="174" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_favorive.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_download.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="25" column="46" lean-forward="true" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+          <folding>
+            <element signature="e#314#332#0" expanded="true" />
+            <element signature="e#402#420#0" expanded="true" />
+            <element signature="e#1771#1789#0" expanded="true" />
+            <element signature="e#1828#1846#0" expanded="true" />
+            <element signature="e#1986#2004#0" expanded="true" />
+            <element signature="e#2455#2474#0" expanded="true" />
+            <element signature="e#3005#3022#0" expanded="true" />
+            <element signature="e#3183#3201#0" expanded="true" />
+            <element signature="e#3252#3270#0" expanded="true" />
+            <element signature="e#3656#3674#0" expanded="true" />
+            <element signature="e#3725#3743#0" expanded="true" />
+            <element signature="e#4133#4151#0" expanded="true" />
+            <element signature="e#4202#4220#0" expanded="true" />
+            <element signature="e#5006#5023#0" expanded="true" />
+            <element signature="e#5075#5092#0" expanded="true" />
+            <element signature="e#5145#5163#0" expanded="true" />
+            <element signature="e#5371#5396#0" expanded="true" />
+            <element signature="e#5998#6015#0" expanded="true" />
+            <element signature="e#6067#6084#0" expanded="true" />
+            <element signature="e#6134#6152#0" expanded="true" />
+            <element signature="e#6501#6525#0" expanded="true" />
+            <element signature="e#6835#6854#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_download.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="613" column="58" selection-start-line="613" selection-start-column="58" selection-end-line="613" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/DaoFavorite/FavoriteDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/DaoDownload/DownloadApdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="72" column="21" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#867#868#0" expanded="true" />
+            <element signature="e#907#908#0" expanded="true" />
+            <element signature="e#828#829#0" expanded="true" />
+            <element signature="e#874#875#0" expanded="true" />
+            <element signature="e#2841#2842#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/activity_detail.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/video_menu.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/QuestionActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="417" column="12" selection-start-line="417" selection-start-column="12" selection-end-line="469" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/fragment/FragmentSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/viewmodel/fragment/SearchVM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/model/modelLesson/Lesson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="449" column="5" selection-start-line="449" selection-start-column="5" selection-end-line="449" selection-end-column="5" />
+          <folding>
+            <element signature="e#11483#11484#0" expanded="true" />
+            <element signature="e#11508#11509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/VideoViewActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="50" column="50" selection-start-line="50" selection-start-column="50" selection-end-line="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/DetailActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="402" column="9" selection-start-line="402" selection-start-column="9" selection-end-line="402" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#25728#26064#0" expanded="true" />
+            <element signature="e#26063#26064#0" expanded="true" />
+            <element signature="e#26119#26411#0" expanded="true" />
+            <element signature="e#26410#26411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/fragment/FragmentDetailPlayingSortByTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="734" selection-start-line="734" selection-end-line="734" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.0.0/a23a5f203e97d91666c374e408053b1878de3bff/core-1.0.0-sources.jar!/androidx/core/content/FileProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="338" column="13" selection-start-line="338" selection-start-column="13" selection-end-line="338" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/service/DownloadService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="137" column="44" selection-start-line="137" selection-start-column="44" selection-end-line="137" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/service/MusicService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2278">
+          <caret line="174" column="39" selection-start-line="174" selection-start-column="39" selection-end-line="174" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/fragment/FragmentDownload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/DaoDownload/DownloadList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5300#5301#0" expanded="true" />
+            <element signature="e#5336#5337#0" expanded="true" />
+            <element signature="e#5600#5601#0" expanded="true" />
+            <element signature="e#5640#5641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/DaoDownload/DownloadDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/provider_paths.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/FragmentFavorite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="76" column="74" selection-start-line="76" selection-start-column="74" selection-end-line="76" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4552#4553#0" expanded="true" />
+            <element signature="e#4620#4621#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/DaoDownload/DownloadDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/util/AppUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="130" column="67" selection-start-line="130" selection-start-column="67" selection-end-line="130" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/AppController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="82" column="30" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/main_config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="40" column="56" selection-start-line="40" selection-start-column="56" selection-end-line="40" selection-end-column="56" />
+          <folding>
+            <element signature="e#1279#1304#0" expanded="true" />
+            <element signature="e#1481#1499#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/suusoft/elistening/view/activity/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="425" column="91" selection-start-line="425" selection-start-column="91" selection-end-line="425" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

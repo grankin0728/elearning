@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+        <variable
+            name="viewModel"
+            type="com.suusoft.elistening.viewmodel.layout.MyMediaplayerVM"/>
+    </data>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/txt_timecurent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/padding_time_text"
+            android:text="@string/time_play"
+            android:textColor="@{viewModel.isBackgroundDark ? @color/white : @color/black1}"
+            android:textSize="@dimen/text_size_small" />
+
+        <TextView
+            android:id="@+id/txt_timetotal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:paddingRight="@dimen/padding_time_text"
+            android:text="@string/time_play"
+            android:textColor="@{viewModel.isBackgroundDark ? @color/white : @color/black1}"
+            android:textSize="@dimen/text_size_small" />
+
+        <SeekBar
+            android:id="@+id/sbtimeplay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:thumbTint="@{viewModel.isBackgroundDark ? @color/white : @color/black1}"
+            android:progressDrawable="@drawable/seekbar_progress"
+            android:maxHeight="@dimen/seekbar_heigh"
+            android:minHeight="@dimen/seekbar_heigh"
+            android:thumb="@{viewModel.isBackgroundDark ? @drawable/thumb : @drawable/thumb_black}"
+            android:layout_below="@+id/txt_timecurent" />
+
+        <LinearLayout
+            android:layout_marginBottom="@dimen/dimen_2x"
+            android:layout_marginTop="@dimen/dimen_1x"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_6x"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/sbtimeplay"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <!--<ImageButton-->
+                <!--android:id="@+id/btn_replay"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_weight="0.2"-->
+                <!--android:background="@drawable/btn_media_effect"-->
+                <!--android:scaleX="0.9"-->
+                <!--android:scaleY="0.8"-->
+                <!--android:onClick="@{viewModel::onClickReplay}"-->
+                <!--android:src="@{viewModel.isBackgroundDark ? @drawable/ic_replay_all : @drawable/ic_replay_all_black}" />-->
+
+            <!--<ImageButton-->
+                <!--android:background="@drawable/btn_media_effect"-->
+                <!--android:id="@+id/btn_prev"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_weight="0.2"-->
+                <!--android:onClick="@{viewModel::onClickPrev}"-->
+                <!--android:src="@{viewModel.isBackgroundDark ? @drawable/ic_prev : @drawable/ic_prev_black}" />-->
+
+            <!--<ImageButton-->
+                <!--android:id="@+id/btn_play"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_weight="0.2"-->
+                <!--android:background="@drawable/btn_media_effect"-->
+                <!--android:padding="@dimen/dimen_05x"-->
+                <!--android:scaleX="1.2"-->
+                <!--android:scaleY="1.2"-->
+                <!--android:scaleType="fitCenter"-->
+                <!--android:onClick="@{viewModel::onClickPlay}"-->
+                <!--android:src="@{viewModel.isBackgroundDark ? @drawable/ic_play : @drawable/ic_play_black}" />-->
+
+            <!--<ImageButton-->
+                <!--android:id="@+id/btn_next"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_weight="0.2"-->
+                <!--android:background="@drawable/btn_media_effect"-->
+                <!--android:onClick="@{viewModel::onClickNext}"-->
+                <!--android:src="@{viewModel.isBackgroundDark ? @drawable/ic_next : @drawable/ic_next_black}" />-->
+
+            <!--<ImageButton-->
+                <!--android:id="@+id/btn_stop"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_weight="0.2"-->
+                <!--android:onClick="@{viewModel::onClickStop}"-->
+                <!--android:background="@drawable/btn_media_effect"-->
+                <!--android:src="@{viewModel.isBackgroundDark ? @drawable/ic_stop : @drawable/ic_stop_black}" />-->
+        </LinearLayout>
+    </RelativeLayout>
+</layout>
